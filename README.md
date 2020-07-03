@@ -7,10 +7,6 @@ version for the lifetime of the product.
 
 This repository is solely maintained by Docker, Inc.
 
-xiaoyang test.
-xiaoyang test.
-xiaoyang test.2020.
-
 ## Issues
 
 There are separate issue-tracking repos for the end user Docker CE
